@@ -127,6 +127,46 @@ export const catalogo = [
     feminino: true,
     novidades: true,
   },
+  {
+    id: "17",
+    nome: "cropped verde alcinhas cruzadas",
+    preco: 90,
+    imagem: "product-17.png",
+    feminino: true,
+    novidades: true,
+  },
+  {
+    id: "18",
+    nome: "regata cortada a fio rosa estonada",
+    preco: 80,
+    imagem: "product-18.png",
+    feminino: false,
+    novidades: true,
+  },
+  {
+    id: "19",
+    nome: "cropped frente única estampa psicodélica",
+    preco: 100,
+    imagem: "product-19.png",
+    feminino: true,
+    novidades: true,
+  },
+  {
+    id: "20",
+    nome: "vestido macaquinho cut out",
+    preco: 200,
+    imagem: "product-20.png",
+    feminino: true,
+    novidades: true,
+  },
+  {
+    id: "21",
+    nome: "camisa com amarração lateral",
+    preco: 160,
+    imagem: "product-21.png",
+    feminino: true,
+    novidades: true,
+  },
 ];
 
 export function salvarLocalStorage(chave, informacao) {

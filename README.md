@@ -10,6 +10,7 @@ Este projeto foi desenvolvido desenvolvido durante o Intensivão de JavaScript d
 ## Funcionalidades 💡
 Este é um projeto de página de e-commerce que permite aos usuários:
 * Navegar por uma seleção de roupas disponíveis.
+* Aplicar filtros para buscar produtos específicos. 
 * Adicionar e remover itens do carrinho de compras.
 * Finalizar suas compras com informações de pagamento.
 * Consultar o histórico de compras para rastrear as transações anteriores.
